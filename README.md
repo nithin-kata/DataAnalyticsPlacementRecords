@@ -7,6 +7,10 @@
 
 A Python-based analytics tool to analyze student placement data, generate trends, statistics, and quick insights from CSV datasets.
 
+<img width="1915" height="863" alt="Screenshot 2026-01-07 111249" src="https://github.com/user-attachments/assets/462c13bf-4dcc-4d8d-b9f9-92506403ef77" />
+
+
+
 
 **Features**
 
