@@ -5,7 +5,8 @@
 
 **Description**
 
-A Python-based analytics tool to analyze student placement data, generate trends, statistics, and quick insights from CSV datasets.
+A Python-based data analytics project that analyzes placement records from my college using interactive visualizations and statistics. The tool processes CSV placement data to reveal trends in hiring, salary distributions, company participation, and branch/year comparisons, helping users explore insights through an intuitive interface.
+
 
 <img width="1915" height="863" alt="Screenshot 2026-01-07 111249" src="https://github.com/user-attachments/assets/462c13bf-4dcc-4d8d-b9f9-92506403ef77" />
 
