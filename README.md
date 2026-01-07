@@ -53,6 +53,6 @@ Placement percentage per year
 
 Company-wise hiring trends
 
-**Check Out the Deployment Link Below**
+**Check Out the Deployment Link Below:**
 
 https://dataanalyticsplacementrecords-7aa5cn6nfq26dpkv4jqmwf.streamlit.app/
