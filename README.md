@@ -3,14 +3,12 @@
 # Data Analytics – Placement Records Analysis
 
 
-Description
+**Description**
 
 A Python-based analytics tool to analyze student placement data, generate trends, statistics, and quick insights from CSV datasets.
 
 
-
-
-Features
+**Features**
 
 Data cleaning and preprocessing
 
@@ -21,18 +19,13 @@ Search/filter by year, branch, company
 Analytics summary generation
 
 
-
-
-How to Run
+**How to Run**
 
 pip install -r requirements.txt
 python app.py
 
 
-
-
-
-Outputs
+**Outputs**
 
 Average salary by branch
 
